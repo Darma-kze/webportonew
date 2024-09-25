@@ -1,0 +1,156 @@
+{
+  "name": "Ardi Darma",
+  "logo_name": "ardi-darma",
+  "role": "Professional Photographer",
+  "about": {
+    "sections": {
+      "professional-info": {
+        "title": "professional-info",
+        "icon": "icons/info-professional.svg",
+        "info": {
+          "experience": {
+            "title": "experience",
+            "description": "<br>Sebagai seorang freelance photographer sejak SMP, saya telah mengasah keterampilan dalam mengambil berbagai jenis foto, mulai dari landscape dan potret hingga fotografi event. Saya berpengalaman mendokumentasikan acara seperti show, pameran dan konser, dengan fokus pada momen penting yang menceritakan sebuah kisah. Selain itu, saya juga memiliki keahlian dalam proses editing foto menggunakan software seperti Adobe Lightroom dan Photoshop, untuk meningkatkan kualitas gambar dan memastikan hasil akhir yang profesional. <br><br> Sebagai social media content creator, saya menghasilkan konten visual menarik yang sesuai dengan tren terkini, yang membantu saya berkembang dalam aspek teknis dan kreatif, serta memahami kebutuhan klien."
+          },
+          "hard-skills": {
+            "title": "hard-skills",
+            "description": "<br>Saya memiliki kemampuan dalam fotografi, mampu mengambil dan mengedit foto dengan kualitas tinggi baik di studio maupun di lokasi, dengan perhatian pada komposisi, pencahayaan, dan detail. Saya mahir menggunakan software editing seperti Adobe Lightroom dan Photoshop untuk meningkatkan kualitas gambar dan menyesuaikan elemen visual. Berpengalaman dalam mengoperasikan berbagai jenis kamera digital, termasuk DSLR dan mirrorless, saya memahami pengaturan teknis seperti ISO, aperture, dan shutter speed. Selain itu, saya memiliki keahlian dalam fotografi otomotif, khususnya dalam menangkap gambar kendaraan diesel dengan fokus pada desain, performa, dan karakteristik unik. <br><br> Saya juga familiar dengan penggunaan peralatan fotografi tambahan seperti tripod, lensa, dan lighting equipment untuk menghasilkan gambar yang optimal, serta memiliki kemampuan untuk mengembangkan konsep visual yang menarik dan inovatif untuk proyek fotografi dan konten media sosial."
+          },
+          "soft-skills": {
+            "title": "soft-skills",
+            "description": "<br>Saya memiliki kemampuan komunikasi yang baik, baik secara lisan maupun tulisan, sehingga dapat memahami kebutuhan klien dan menyampaikan ide-ide secara efektif. Berpengalaman dalam bekerja sama dengan tim dalam berbagai proyek, saya mampu berkolaborasi dan mendukung anggota tim lainnya untuk mencapai tujuan bersama. Selain itu, saya terampil dalam manajemen waktu, memastikan setiap proyek selesai tepat waktu dan sesuai dengan standar yang diharapkan. Kreativitas saya memungkinkan untuk berpikir inovatif dalam menciptakan konsep baru untuk fotografi serta menemukan solusi untuk tantangan yang muncul. <br><br> Saya juga fleksibel dan mampu beradaptasi dengan cepat terhadap situasi baru, baik dalam lingkungan kerja maupun kebutuhan proyek. Dengan perhatian yang tinggi terhadap detail, saya memastikan kualitas tinggi dalam setiap aspek pekerjaan, mulai dari pengambilan gambar hingga proses editing. "
+          }
+        }
+      },
+      "personal-info": {
+        "title": "personal-info",
+        "icon": "icons/info-personal.svg",
+        "info": {
+          "bio": {
+            "title": "bio",
+            "description": "<br> Aku Ardi Darma Eko Nugroho <br> Saya adalah seorang fotografer berpengalaman sejak SMP, dengan minat mendalam pada seni visual dan fotografi. Sejak usia muda, saya terus mengasah keterampilan dalam menangkap momen-momen berharga dan mengembangkan kemampuan di berbagai genre fotografi. <br><br> Fotografi bukan hanya hobi, tetapi juga cara saya mengekspresikan kreativitas dan melihat dunia dari sudut pandang yang unik."
+          },
+          "interests": {
+            "title": "interests",
+            "description": "<br>Berawal dari memiliki ketertarikan khusus dalam fotografi mobil, terutama yang berfokus pada kendaraan diesel. Saya menikmati mengeksplorasi dan menangkap keindahan serta detail unik dari mobil diesel, mulai dari desain eksterior hingga performa mesin. <br><br> Kegiatan ini memberi saya kesempatan untuk menggabungkan kecintaan terhadap otomotif dengan seni fotografi, menciptakan gambar yang tidak hanya menarik secara visual tetapi juga menggambarkan karakter dan kekuatan setiap kendaraan."
+          },
+          "education": {
+            "title": "education",
+            "description": "<br>Saya lulus dari SMPN 32 Surabaya dengan fokus pada seni dan kreativitas, di mana saya mulai mengembangkan minat dalam fotografi. Selanjutnya, saya menyelesaikan pendidikan di SMK Ketintang Surabaya dengan prestasi, mengambil mata Multimedia yang mendukung keterampilan fotografi saya. <br><br> Lalu saya melanjutkan pendidikan saya di Universitas Brawijaya Malang. Saya mengambil jurusan Teknologi Informasi untuk mengasah skill saya selanjutnya",
+            "files": {
+              "high-school": "I have been in 'SMK Ketintang Surabaya'",
+              "university": "Brawijaya university"
+            }
+          }
+        }
+      },
+      "hobbies-info": {
+        "title": "hobbies-info",
+        "icon": "icons/info-hobbies.svg",
+        "info": {
+          "sports": {
+            "title": "sports",
+            "description": "<br>Sejak kecil, saya mulai belajar karate pada usia 7 tahun. Latihan ini mengajarkan saya disiplin, ketekunan, dan kesabaran. Saya mengikuti ujian kenaikan sabuk dan berbagai kompetisi, yang mengajarkan pentingnya kerja keras dan menerima kekalahan. <br> Karate membantu membentuk karakter saya dan meningkatkan fokus serta keberanian dalam kehidupan sehari-hari."
+          },
+          "favorite-games": {
+            "title": "favorite-games",
+            "description": "<br>Saya memiliki hobi bermain game, terutama PUBG dan Wangan Midnight Maximum Tune (WMMT). PUBG adalah game battle royale yang menuntut strategi, kerjasama tim, dan keterampilan dalam bertahan hidup. Saya senang memainkan PUBG karena adrenalinnya tinggi saat bertarung melawan pemain lain dan mencoba menjadi yang terakhir bertahan. <br><br> Sementara itu, WMMT adalah game balapan mobil arcade yang diadaptasi dari manga Wangan Midnight. Game ini berfokus pada balapan kecepatan tinggi di jalanan Tokyo. WMMT memiliki mode cerita yang mengikuti kisah karakter dari manga, di mana pemain bisa balapan melawan tokoh-tokoh terkenal. Saya sangat menikmati sensasi balapan dengan kecepatan tinggi, meng-upgrade mobil, dan menghadapi tantangan di setiap level. Balapan dengan teman di WMMT juga menambah keseruan, karena setiap balapan terasa intens dan penuh persaingan."
+          }
+        }
+      }
+    }
+  },
+  "contacts": {
+    "direct": {
+      "title": "contacts",
+      "sources": {
+        "email": "darma.darma2506@gmail.com",
+        "phone": "+6285233331492"
+      }
+    },
+    "social": {
+      "github": {
+        "title": "Github profile",
+        "url": "https://github.com/",
+        "user": "Darma-kze"
+      },
+      "facebook": {
+        "title": "Facebook profile",
+        "url": "https://facebook.com/",
+        "user": "Ar Di"
+      },
+      "twitter": {
+        "title": "Twitter account",
+        "url": "https://twitter.com/",
+        "user": "username"
+      }
+    },
+    "find_me_also_in": {
+      "title": "find-me-also-in",
+      "sources": {
+        "youtube": {
+          "title": "YouTube channel",
+          "url": "https://www.youtube.com/",
+          "user": "Ardi Darma"
+        },
+        "gurushots": {
+          "title": "GuruShots profile",
+          "url": "https://gurushots.com/",
+          "user": "username"
+        },
+        "instagram": {
+          "title": "Instagram account",
+          "url": "https://instagram.com/",
+          "user": "adarmaen_"
+        },
+        "twitch": {
+          "title": "Twitch profile",
+          "url": "https://twitch.com/",
+          "user": "username"
+        }
+      }
+    }
+  },
+  "gists": {
+    "1": "83861a67e377633ee8368df01ee3a355",
+    "2": "694c1f32332788a2ac7f37b09e5aa40e"
+  },
+  "projects": {
+    "1": {
+      "title": "First_Photografer",
+      "description": "Foto pertama yang membuat saya suka dengan fotografi adalah saat saya di beri pinjaman kamera oleh teman saya",
+      "img": "/images/projects/DSC_6685.JPG",
+      "url": "https://github.com/"
+    },
+    "2": {
+      "title": "Event_Diesel_War_1",
+      "description": "Sejak saat itu saya mengikuti event diesel war dan mengambil job sebagai fotografi",
+      "img": "/images/projects/DSC_2927.JPG",
+      "url": "https://github.com/"
+    },
+    "3": {
+      "title": "Event_Car_Show",
+      "description": "Salah satu event mobil lainnya yang saya pernah ikuti",
+      "img": "/images/projects/DSC_9465.JPG",
+      "url": "https://github.com/"
+    },
+    "4": {
+      "title": "Event_Unair",
+      "description": "Salah satu event yang saat itu saya mengambil job sebagai Fotografernya",
+      "img": "/images/projects/WhatsApp Image 2024-09-25 at 23.18.21_30d7234d.jpg",
+      "url": "https://github.com/"
+    },
+    "5": {
+      "title": "Evwnt_AMM_Surabaya",
+      "description": "Event AMM pameran mobil terbesar di Surabaya",
+      "img": "/images/projects/DSC03946.jpg",
+      "url": "https://github.com/"
+    },
+    "6": {
+      "title": "Event_Cosplay_Surabaya",
+      "description": "Event yang pernah saya ikuti juga untuk jadi seorang fotografer",
+      "img": "/images/projects/WhatsApp Image 2024-09-25 at 23.25.11_16c97d1b.jpg",
+      "url": "https://github.com/"
+    }
+  }
+}
